@@ -1,0 +1,29 @@
+[{
+    "title":"Escuadra",
+    "price":123.45,
+    "thumbnail":"http://www.unapagina.com.ar/imagen01",
+    "id":1
+  },
+  {
+    "title":"Calculadora",
+    "price":234.56,
+    "thumbnail":"http://www.unapagina.com.ar/imagen02",
+    "id":2
+  },{
+    "title":"Globo Terraqueo",
+    "price":250.45,
+    "thumbnail":"http://www.unapagina.com.ar/imagen03",
+    "id":3
+  },{
+    "title":"Compas",
+    "price":123.45,
+    "thumbnail":"http://www.unapagina.com.ar/imagen04",
+    "id":4
+  },{
+    "title":"Cuaderno",
+    "price":80.45,
+    "thumbnail":"http://www.unapagina.com.ar/imagen05",
+    "id":5
+  }
+  
+  ]
